@@ -120,12 +120,6 @@ celerybeat.pid
 *.sage.py
 
 
-.docker
-# python 
-app/__pycache__/
-app/*/__pycache__/
-app/*/*/__pycache__/
-app/*/*/*/__pycache__/
 
 # Environments
 .env/
